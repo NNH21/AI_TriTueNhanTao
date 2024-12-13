@@ -1,0 +1,15 @@
+14
+sunny hot high F N
+sunny hot high T N
+overcast hot high F Y
+rainy mild high F Y
+rainy cool normal F Y
+rainy cool normal T N
+overcast cool normal T Y
+sunny mild high F N
+sunny cool normal F Y
+rainy mild normal F Y
+sunny mild normal T Y
+overcast mild high T Y
+overcast hot normal F Y
+rainy mild high T N
